@@ -1,12 +1,12 @@
 package spring.com.rohit;
 
-public class TrackCoach implements Coach {
+public class CricketCoach implements Coach {
     private FortuneService fortuneService;
 
-    public TrackCoach() {
+    public CricketCoach() {
     }
 
-    public TrackCoach(FortuneService fortuneService) {
+    public CricketCoach(FortuneService fortuneService) {
         this.fortuneService = fortuneService;
     }
 
@@ -15,17 +15,16 @@ public class TrackCoach implements Coach {
     }
 
     public void setFortuneService(FortuneService fortuneService) {
-        System.out.println("inside setter method");
         this.fortuneService = fortuneService;
     }
 
     @Override
     public String getDailyWorkout() {
-        return "Run a hard 5k";
+        return "Practice like Virat Kohli";
     }
 
     @Override
     public String getDailyFortune() {
-        return fortuneService.getFortune();
+        return null;
     }
 }
