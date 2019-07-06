@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf0885dd-2282-43c3-9d6d-0408fc538439" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spring/com/rohit/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/com/rohit/CricketCoach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/com/rohit/CricketCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/com/rohit/CricketCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,87 +14,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/BaseBallCoach.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/BaseBallCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="170">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#240#241#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#362#363#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/CricketCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-              <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#268#269#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#120#121#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/CricketCoach.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/HappyFortuneService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-415">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#569#570#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
-                <element signature="e#660#661#0" expanded="true" />
-                <element signature="e#708#709#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#766#767#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#838#839#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-                <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#252#253#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SadFortuneService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-              <folding>
-                <element signature="e#131#132#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -105,35 +53,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/sport.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/TrackCoach.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="204">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/HelloSpringApp.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/SadFortuneService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="68">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SetterValueDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/MyDemoApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="197">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/MyLoggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-308">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/annotation-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/MyLoggerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,12 +148,23 @@
         <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/BaseBallCoach.java" />
         <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/HelloSpringApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SetterDemoApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java" />
         <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SetterValueDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/CricketCoach.java" />
         <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SadFortuneService.java" />
         <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/sport.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/BeanScopeDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/BeanMethodDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/beanScope-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/MyLoggerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/CricketCoach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/HappyFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/SadFortuneService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/annotation-applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/MyDemoApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/BaseBallCoach.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/TrackCoach.java" />
       </list>
     </option>
   </component>
@@ -194,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,29 +246,42 @@
               <item name="springfirst" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="rohit" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringWithAnnotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springfirst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springfirst" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Spring project\springfirst\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Spring project\springfirst\src\main\java\spring\com\rohit\SpringWithAnnotation" />
       <recent name="F:\Spring project\springfirst\src" />
       <recent name="F:\Spring project\springfirst\src\main\resources" />
       <recent name="F:\Spring project\springfirst" />
       <recent name="F:\Spring project\springfirst\src\main\java\spring" />
-      <recent name="F:\Spring project\springfirst\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Spring project\springfirst\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -289,9 +296,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetterValueDemo">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.com.rohit.App" />
+  <component name="RunManager" selected="Application.MyDemoApp">
+    <configuration name="BeanMethodDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.com.rohit.BeanMethodDemoApp" />
+      <module name="springfirst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.com.rohit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BeanScopeDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.com.rohit.BeanScopeDemoApp" />
       <module name="springfirst" />
       <extension name="coverage">
         <pattern>
@@ -316,12 +336,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring.com.rohit.MyApp" />
+    <configuration name="MyDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.com.rohit.SpringWithAnnotation.MyDemoApp" />
       <module name="springfirst" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.com.rohit.*" />
+          <option name="PATTERN" value="spring.com.rohit.SpringWithAnnotation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,10 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyDemoApp" />
+        <item itemvalue="Application.BeanMethodDemoApp" />
+        <item itemvalue="Application.BeanScopeDemoApp" />
         <item itemvalue="Application.SetterValueDemo" />
         <item itemvalue="Application.HelloSpringApp" />
-        <item itemvalue="Application.MyApp" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -368,17 +389,13 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23087248" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43201134" />
@@ -386,58 +403,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29886687" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/MyLoggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331">
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#459#460#0" expanded="true" />
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/src/applicationContext.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/Coach.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -466,40 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/BaseBallCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SetterDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -507,50 +457,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/HelloSpringApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sport.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SetterValueDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/CricketCoach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#660#661#0" expanded="true" />
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#838#839#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sport.properties" />
     <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/HappyFortuneService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -568,15 +475,22 @@
           <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
           <folding>
             <element signature="e#131#132#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/BaseBallCoach.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/BeanScopeDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -584,6 +498,144 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/CricketCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SetterValueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/HelloSpringApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/BeanMethodDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/beanScope-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="23" column="124" selection-start-line="23" selection-start-column="124" selection-end-line="23" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/FortuneService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/Coach.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/CricketCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/annotation-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/MyLoggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/MyLoggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/HappyFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/BaseBallCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/SadFortuneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/MyDemoApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spring/com/rohit/SpringWithAnnotation/TrackCoach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

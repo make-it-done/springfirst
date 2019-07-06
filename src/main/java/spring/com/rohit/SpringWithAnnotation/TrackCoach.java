@@ -1,12 +1,18 @@
-package spring.com.rohit;
+package spring.com.rohit.SpringWithAnnotation;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.stereotype.Component;
+
+@Component()
 public class TrackCoach implements Coach {
     private FortuneService fortuneService;
 
     public TrackCoach() {
     }
 
-    public TrackCoach(FortuneService fortuneService) {
+    @Autowired
+    public TrackCoach(@Qualifier("theSadFortune") FortuneService fortuneService) {
         this.fortuneService = fortuneService;
     }
 
